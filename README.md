@@ -6,17 +6,17 @@ Obay</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently a computer science student
+- 🔭 I’m currently a computer science student.
 
-- 🌱 I’m currently Working as a back-end developer
+- 🌱 I’m currently studing back-end development.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing & Remote Jobs.
 
-- 🌱 I’m currently learning TheeJS because it's fun
+- 🌱 I’m currently learning ASP.NET.
 
 - 💬 Ask me about **PHP & Laravel**
 
-- 📫 How to reach me **obay.ismaeel@outlook.com**
+- 📫 How to reach me **obay.engineer@gmail.com**
 
 <br/>
 <br/>
